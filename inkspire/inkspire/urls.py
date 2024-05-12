@@ -27,3 +27,4 @@ urlpatterns = [
     path('', include('inkspire_app.urls')),
 
 ]
+    
